@@ -55,12 +55,6 @@ header .slide-5 {
 }
 
 header .slide-6 {
-  background: url('https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzaYED%2FbtrRa2m42Dc%2F4m6hqvuWeJqUkHoenzalkK%2Fimg.jpg')no-repeat;
-  background-size: cover;
-  background-position: top center;
-}
-
-header .slide-7 {
   background: url('https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2vsO4%2FbtrQkvXuVd0%2FoSCw7GEjZRkE9OivVrsaK0%2Fimg.jpg')no-repeat;
   background-size: cover;
   background-position: bottom center;
